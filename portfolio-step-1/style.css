@@ -17,6 +17,10 @@ body {
   padding: 0 16px;
 }
 
+header {
+ text-align: right;
+
+}
 .page-header {
   margin: 0 0 160px;
   padding: 32px 0 32px;
